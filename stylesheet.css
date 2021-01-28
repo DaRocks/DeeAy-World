@@ -121,7 +121,7 @@ section .title::after{
 /* Home Section Styling */
 .home{
     display: flex;
-    background: url("Banner6.png") no-repeat center;
+    background: url("https://wallpapercave.com/wp/wp3853027.png") no-repeat center;
     height: 100vh;
     color:rgb(219, 219, 219);
     min-height: 500px;
